@@ -1,0 +1,4 @@
+pandas>=2.0
+matplotlib>=3.8
+bokeh>=3.0
+jupyter
